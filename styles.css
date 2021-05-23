@@ -1,6 +1,5 @@
 @import "reset.css";
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Lora&family=Montserrat&family=Open+Sans&family=Pacifico&family=Roboto&family=Shadows+Into+Light&display=swap');
-@import "range.css";
 
 :root{
     --main-color:#e3b0fb
